@@ -24,8 +24,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### 菜单项数据在哪里
-**1，2会被看见**
+### 菜单项数据在哪里（1，2会被看见）
 1. sessionStorage
 2. localStorage
 3. vuex
